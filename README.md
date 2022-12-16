@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Maksym</h1>
+<h1 align="center">Hi 👋, I'm Maks</h1>
 <h3 align="center">do be loving TS though</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdovhopo&label=Profile%20views&color=0e75b6&style=flat" alt="mdovhopo" /> </p>
